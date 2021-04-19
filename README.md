@@ -7,12 +7,13 @@
 ##### Done the Pagination ,sorting ,filtering using Material Table.
 ##### Application gives the user notification when Create,Update and Delete operation completes Successfully
 ##### created Docker files, Docker-compose yaml file, so that you can easily run the application by giving following commands from command line (root folder)
-docker-compose build
 
-- this command will create the images(services)
-docker-compose up
+**docker-compose build**
 
-- this command will start the container
-docker-compose down
+##### - this command will create the images(services)
+**docker-compose up**
 
--this command will stop and remove containers
+##### - this command will start the container
+**docker-compose down**
+
+##### -this command will stop and remove containers
